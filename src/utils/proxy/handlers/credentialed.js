@@ -39,6 +39,7 @@ export default async function credentialedProxyHandler(req, res, map) {
           "argocd",
           "authentik",
           "cloudflared",
+          "coolify",
           "ghostfolio",
           "headscale",
           "hoarder",

@@ -15,6 +15,7 @@ import changedetectionio from "./changedetectionio/widget";
 import channelsdvrserver from "./channelsdvrserver/widget";
 import cloudflared from "./cloudflared/widget";
 import coinmarketcap from "./coinmarketcap/widget";
+import coolify from "./coolify/widget";
 import crowdsec from "./crowdsec/widget";
 import customapi from "./customapi/widget";
 import deluge from "./deluge/widget";
@@ -153,6 +154,7 @@ const widgets = {
   channelsdvrserver,
   cloudflared,
   coinmarketcap,
+  coolify,
   crowdsec,
   customapi,
   deluge,

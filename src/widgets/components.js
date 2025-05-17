@@ -18,6 +18,7 @@ const components = {
   channelsdvrserver: dynamic(() => import("./channelsdvrserver/component")),
   cloudflared: dynamic(() => import("./cloudflared/component")),
   coinmarketcap: dynamic(() => import("./coinmarketcap/component")),
+  coolify: dynamic(() => import("./coolify/component")),
   crowdsec: dynamic(() => import("./crowdsec/component")),
   iframe: dynamic(() => import("./iframe/component")),
   customapi: dynamic(() => import("./customapi/component")),
